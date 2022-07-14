@@ -1,0 +1,1 @@
+alert('Seja bem-vindo a Landing Page do game Osu!')
